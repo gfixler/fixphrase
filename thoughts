@@ -64,14 +64,23 @@ TENSES (NEGATION)
 
 VOWEL-ONLY PRONOUN MEDIALS
 
-    I       AOEU    - long i sound
-    you     U       - leet speak for you
-    he      E       - obvious
-    she     AOE     - long e; 3 letters
-    it      EU      - short i sound
-    we      OE      - diphthong; ooee = we
-    they    AEU     - long a sound
+    I           EU      - Plover's I
+    you         U       - Plover's you
+    he          E       - Plover's he
+    she         AOE     - long e; 3 letters
+    it          AOEU    - the other, non-EU i
+    we          OE      - diphthong; ooee = we
+    they        A       - imagine long A, like 'ey
 
-    unused: O, OU, OEU, A, AU, AE, AO, AOU
+    Positional phrasing, A standing in for I
 
+    you and I   AU      - A=I + U=you
+    he and I    AE      - A=I + E=he
+    she and I   AEU     - A=I + EU=she (only other option)
+
+    oh, it      O
+    oh, I       OEU
+    oh, you     OU
+
+    unused: AO, AOU
 
