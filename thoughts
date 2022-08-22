@@ -62,6 +62,43 @@ TENSES (NEGATION)
     future perfect continuous   (I|you|it|we|they) will not have been doing
 
 
+AUXILIARY VERBS (w/ use counts in main.json)
+
+    STKH-       (0)     can not
+    STWH-       (0)     will not
+    STKWH-      (0)     shall not
+    SKH-        (11)    could not
+    SWH-        (20)    would not
+    SKWH-       (2)     should not (conflicts w/ Emily's Symbols)
+    SKPH-       (22)    may not
+    STKPWH-     (3)     must not
+    STKP-       (27)    ought not to
+
+AUXILIARY VERBS NEGATION (w/ use counts in main.json)
+
+    STKHR-      (6)     can not (conflicts w/ my other choice for Emily's Symbols)
+    STWHR-      (0)     will not
+    STKWHR-     (0)     shall not
+    SKHR-       (106)   could not
+    SWHR-       (5)     would not
+    SKWHR-      (6)     should not
+    SKPHR-      (8)     may not
+    STKPWHR-    (10)    must not
+    STKPR-      (3)     ought not to
+
+AUXILIARY VERBS NEGATION CONTRACTION (w/ use counts in main.json)
+
+    STKHR*      (0)     can't
+    STWHR*      (0)     won't
+    STKWHR*     (0)     shan't
+    SKHR*       (16)    couldn't
+    SWHR*       (0)     wouldn't
+    SKWHR*      (0)     shouldn't
+    SKPHR*      (1)     mayn't
+    STKPWHR*    (0)     mustn't
+    STKPR*      (0)     oughtn't to
+
+
 VOWEL-ONLY PRONOUN MEDIALS
 
     I           EU      - Plover's I
