@@ -74,6 +74,17 @@ AUXILIARY VERB STARTERS (w/ use counts in main.json)
     SPWH-       10      might
     STKPWH-     3       must
 
+some other, simple, unused starters, with occurrence counts:
+TKH-    37
+KWH-    22
+TWH-    15
+KPH-    404
+STW-    7
+SKPH-   22
+STKP-   27
+STWH-   0
+STKWH-  0
+
 AUXILIARY VERBS NEGATION (w/ use counts in main.json)
 
     note: too many matches below, using R- for negation with the new starters
