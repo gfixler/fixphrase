@@ -62,41 +62,54 @@ TENSES (NEGATION)
     future perfect continuous   (I|you|it|we|they) will not have been doing
 
 
-AUXILIARY VERBS (w/ use counts in main.json)
+AUXILIARY VERB STARTERS (w/ use counts in main.json)
 
-    STKH-       (0)     can not
-    STWH-       (0)     will not
-    STKWH-      (0)     shall not
-    SKH-        (11)    could not
-    SWH-        (20)    would not
-    SKWH-       (2)     should not (conflicts w/ Emily's Symbols)
-    SKPH-       (22)    may not
-    STKPWH-     (3)     must not
-    STKP-       (27)    ought not to
+    SKH-        11      can
+    SWH-        20      will
+    SKWH-       2       shall (or KWH- 22)
+    TKH-        37      could
+    PWH-        55      would
+    TKPWH-      31      should
+    STKH-       0       may
+    SPWH-       10      might
+    STKPWH-     3       must
 
 AUXILIARY VERBS NEGATION (w/ use counts in main.json)
 
-    STKHR-      (6)     can not (conflicts w/ my other choice for Emily's Symbols)
-    STWHR-      (0)     will not
-    STKWHR-     (0)     shall not
-    SKHR-       (106)   could not
-    SWHR-       (5)     would not
-    SKWHR-      (6)     should not
-    SKPHR-      (8)     may not
-    STKPWHR-    (10)    must not
-    STKPR-      (3)     ought not to
+    note: too many matches below, using R- for negation with the new starters
+    above; thinking about moving negation to a key on the right side now, which
+    will open up many, new, non-negated starters for other auxiliaries
 
-AUXILIARY VERBS NEGATION CONTRACTION (w/ use counts in main.json)
+    SKHR-       106     can not
+    SWHR-       5       will not
+    SKWHR-      6       shall not
+    TKHR-       262     could not
+    PWHR-       1531    would not (ugh)
+    TKPWHR-     902     should not (yikes)
+    STKHR-      6       may not
+    SPWHR-      22      might not
+    STKPWHR-    10      must not
 
-    STKHR*      (0)     can't
-    STWHR*      (0)     won't
-    STKWHR*     (0)     shan't
-    SKHR*       (16)    couldn't
-    SWHR*       (0)     wouldn't
-    SKWHR*      (0)     shouldn't
-    SKPHR*      (1)     mayn't
-    STKPWHR*    (0)     mustn't
-    STKPR*      (0)     oughtn't to
+                        ought to
+
+    SEMI MODALS
+                        need to
+                        dare (maybe TKH 37 for the D-?)
+
+    OTHERS
+                        have to
+                        used to
+
+    SEMI-AUXILLIARIES
+    be going to
+    be able to
+    be supposed to
+    be willing to
+    had better
+    be to
+    be allowed to
+    be meant to
+    be + adj + to
 
 
 VOWEL-ONLY PRONOUN MEDIALS
