@@ -27,14 +27,15 @@ Irregular verbs group 1
 same base form, past simple, and past participle
 """
 irreg1 = [
+    "bet",
+    "bid",
     "cost",
     "cut",
+    "hit",
     "hurt",
     "let",
     "put",
-    "bet",
-    "bid",
-    "hit",
+    "read",
     "shut",
 ]
 
@@ -94,8 +95,8 @@ same base form and past participle (omitted)
 different past simple
 """
 irreg3 = [
-    ("come", "came"),
     ("become", "became"),
+    ("come", "came"),
     ("run", "ran"),
 ]
 
