@@ -3,20 +3,20 @@ NOTES:
 
     - verb "to be" has 8 forms and is handled separately
 
-    - some verbs have alternate forms; I use these:
+    - some verbs have alternate forms; in the following
+        pairings I use the first line, and not the second:
 
-        yes: beat   beat    beaten
-        no:  beat   beat    beat
+        beat   beat    beaten
+        beat   beat    beat
 
-        yes: burn   burned  burned
-        no:  burn   burnt   burnt
+        burn   burned  burned
+        burn   burnt   burnt
 
-        yes: learn  learned learned
-        no:  learn  learnt  learnt
+        dream  dreamed dreamed
+        dream  dreamt  dreamt
 
-        yes: dream  dreamed dreamed
-        no:  dream  dreamt  dreamt
-
+        learn  learned learned
+        learn  learnt  learnt
 """
 
 """
