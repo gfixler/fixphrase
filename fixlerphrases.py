@@ -15,6 +15,9 @@ NOTES:
         dream  dreamed dreamed
         dream  dreamt  dreamt
 
+        lay     laid    laid
+        lie     lay     lain
+
         learn  learned learned
         learn  learnt  learnt
 """
@@ -41,6 +44,7 @@ same past simple and past participle (omitted)
 different base form
 """
 irreg2 = [
+    ("beat", "beaten"),
     ("bend", "bent"),
     ("bring", "brought"),
     ("build", "built"),
@@ -122,7 +126,6 @@ irreg4 = [
     ("grow", "grew", "grown"),
     ("hide", "hid", "hidden"),
     ("know", "knew", "known"),
-    ("lie", "lay", "lain"),
     ("ride", "rode", "ridden"),
     ("ring", "rang", "rung"),
     ("rise", "rose", "risen"),
