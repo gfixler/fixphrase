@@ -35,7 +35,6 @@ irreg1 = [
     "hurt",
     "let",
     "put",
-    "read",
     "shut",
 ]
 
@@ -73,7 +72,6 @@ irreg2 = [
     ("mean", "meant"),
     ("meet", "met"),
     ("pay", "paid"),
-    ("read", "read"),
     ("say", "said"),
     ("sell", "sold"),
     ("send", "sent"),
